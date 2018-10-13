@@ -10,8 +10,9 @@ It's important to note that all you need to build game AI is encode what are the
 3. Upgrade to deep Q learning for larger games
 4. Making the appropriate changes to your game to make hooking up AI really easy using UnityML agents
 
-# Setting up
+## Setting up
 I used a docker image to get setup quickly, I'd recommend you do the same unless you wanna spend your whole weekend installing stuff. https://hub.docker.com/r/eboraas/tensorflow/
 
-# Q learning and deep Q learning
-Refer to the notebook which should have all the info you need
+## Q learning and deep Q learning
+1. [FrozenLakeQLearning.ipynb](Q learning)
+2. [FrozenLakeDeepQLearning.ipynb](Deep Q learning)
