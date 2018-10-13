@@ -14,5 +14,5 @@ It's important to note that all you need to build game AI is encode what are the
 I used a docker image to get setup quickly, I'd recommend you do the same unless you wanna spend your whole weekend installing stuff. https://hub.docker.com/r/eboraas/tensorflow/
 
 ## Q learning and deep Q learning
-1. [FrozenLakeQLearning.ipynb](Q learning)
-2. [FrozenLakeDeepQLearning.ipynb](Deep Q learning)
+1. [Q learning](FrozenLakeQLearning.ipynb)
+2. [Deep Q learning](FrozenLakeDeepQLearning.ipynb)
