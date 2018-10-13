@@ -5,12 +5,13 @@ Using this repo as a tutorial series for new game developers such as myself that
 It's important to note that all you need to build game AI is encode what are the actions your agent can take and a snapshot of the state of the game at any point in time (e.g: health bars, number of resources left etc..)
 
 ## What you will learn
-1. Setting up
-2. Go over Q learning and other basic RL algorithms
-3. Upgrade to deep Q learning
+1. Setting up Tensorflow and Open AI gym on a docker container
+2. Go over Q learning and how it can work for small games
+3. Upgrade to deep Q learning for larger games
+4. Making the appropriate changes to your game to make hooking up AI really easy using UnityML agents
 
 # Setting up
-I used a docker image to get setup quickly, I'd recommend you do the same unless you wanna your whole weekend installing stuff. https://hub.docker.com/r/eboraas/tensorflow/
+I used a docker image to get setup quickly, I'd recommend you do the same unless you wanna spend your whole weekend installing stuff. https://hub.docker.com/r/eboraas/tensorflow/
 
 # Q learning and deep Q learning
 Refer to the notebook which should have all the info you need
